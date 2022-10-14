@@ -1,4 +1,6 @@
+![XP needed to level up](xp_level_up.png)
 
+![Total XP needed to get to this level](total_xp_level.png)
 
 | **Level** | **XP needed to level up** | **Total XP required** |
 |-----------|---------------------------|-----------------------|
